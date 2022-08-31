@@ -1,0 +1,27 @@
+Digital Forensics teach you :
+  Bagaimana cara komputer bekerja?
+  Bagaimana data disimpan dan diakses?
+  Bagaimana mengelola data yang begitu besar dengan efisien?
+  Bagaimana cara berpikir logis?
+  Bagaimana cara menghubungkan konsep?
+  Bagaimana cara menulis / berkomunikasi?
+
+What can you do in digital forensics?
+  Hampir semuanya!
+
+  Pekerjaan umum :
+    Polisi/Prosecution/Militer/Intelegen
+    Law Film/Consulting/Bank
+    Corporate investigator
+    Reposter / NGO
+    PC Tchnicians/Administrator
+
+Bagaimana memulainya?
+  Sangat direkomendasikan membaca :
+    Operating system Concepts 9th edition
+    ISBN 978-1118063330
+    Kursus Ini
+  Linux Leo Beginners Guide
+  www.linuxleo.com
+  Teaches Linux Command line
+  Windows command line
